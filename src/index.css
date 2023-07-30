@@ -1,0 +1,34 @@
+:root{
+  --sup-green:#05445E;
+  --bg-green:linear-gradient(#05445E, #022534);
+  --text-green:linear-gradient(#3F6FC1, #05445E);
+}
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@500&family=Rubik:wght@800&display=swap');
+
+*,*::after,*::before{
+ box-sizing: border-box;
+ 
+}
+
+body{
+   margin: 0;
+  
+   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.wrapper{
+  max-width: 1920px;
+  margin: 0 auto;
+}
+
+a{
+  text-decoration: none;
+}
+
+@media (max-width:768px){
+   .wrapper {
+      max-width: 400px;
+      margin: 0 auto;
+    }
+}

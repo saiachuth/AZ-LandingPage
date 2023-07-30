@@ -1,0 +1,21 @@
+.sqr-container{
+    width: 49.5rem;
+        height: 12.5rem;
+        flex-shrink: 0;
+}
+
+.solid-sqr{
+    width: 5rem;
+        height: 5rem;
+        flex-shrink: 0;
+}
+
+.sqr-container .h4{
+    color: #000;
+font-size: 2rem;
+font-family: DM Sans;
+font-style: normal;
+font-weight: 700;
+line-height: 2.25rem;
+letter-spacing: -0.06rem;
+}
