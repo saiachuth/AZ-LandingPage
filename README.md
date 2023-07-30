@@ -1,7 +1,7 @@
 AlgoZenith Landing Page:
 Here's the link to the Landing Page :
-azlandingpage.netlify.app
-
+[azlandingpage.netlify.app
+](https://azlandingpage.netlify.app/)
 
 **Features:**
 
